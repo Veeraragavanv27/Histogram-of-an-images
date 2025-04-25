@@ -79,19 +79,21 @@ plt.xlim([0, 256])
 
 ### Input Grayscale Image and Color Image
 
-![alt text](<Screenshot 2025-04-25 202923.png>)
+![Screenshot 2025-04-25 202923](https://github.com/user-attachments/assets/47847b99-ef59-41db-8c8f-dceeece6d3b9)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-![alt text](<Screenshot 2025-04-25 202935.png>)
+![Screenshot 2025-04-25 202935](https://github.com/user-attachments/assets/6a19ec90-6e59-4f8a-92a7-becb540ef0e2)
+
 
 ### Histogram Equalization of Grayscale Image.
+![Screenshot 2025-04-25 202945](https://github.com/user-attachments/assets/c7582763-d2aa-4ad6-af52-60a31b8d3fca)
 
-![alt text](<Screenshot 2025-04-25 202945.png>)
 
 ### Equalized Histogram. 
+![Screenshot 2025-04-25 202954](https://github.com/user-attachments/assets/961029a0-c03b-435b-9ea4-8afaf39d0eaa)
 
-![alt text](<Screenshot 2025-04-25 202954.png>)
 
 ## Result: 
 
